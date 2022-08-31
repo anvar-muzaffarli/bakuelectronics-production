@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bakuelectronics-production/static/css/main.ac75be8e.css",
+    "main.js": "/bakuelectronics-production/static/js/main.2ba69fa8.js",
+    "index.html": "/bakuelectronics-production/index.html",
+    "main.ac75be8e.css.map": "/bakuelectronics-production/static/css/main.ac75be8e.css.map",
+    "main.2ba69fa8.js.map": "/bakuelectronics-production/static/js/main.2ba69fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac75be8e.css",
+    "static/js/main.2ba69fa8.js"
+  ]
+}
